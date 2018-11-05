@@ -1,0 +1,28 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "latest",
+    "consolidate": "latest",
+    "express": "latest",
+    "node-telegram-bot-api": "^0.27.1",
+    "pg": "latest",
+    "request": "latest",
+    "simple-oauth2": "^1.3.0",
+    "tmi.js": "latest",
+    "twitch-api": "latest",
+    "vksdk": "latest",
+    "vk-node-sdk": "latest",
+    "mongodb": "latest"
+  },
+  "devDependencies": {
+    "sys": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
